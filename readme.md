@@ -9,13 +9,19 @@
 
 1. **Clone the repository** (if not already done):
    ```bash
-   git clone <https://github.com/shivGam/kelp-task.git>
+   git clone https://github.com/shivGam/kelp-task.git
    cd kelp-task
    ```
 
 2. **Install Go dependencies**:
    ```bash
    go mod download
+   ```
+   Or
+   
+   ```bash
+   go mod tidy
+
    ```
 
 ## Configuration
