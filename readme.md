@@ -1,10 +1,5 @@
 # Kelp Task 
 
-## Prerequisites to run the code
-
-- Go 1.24.1 or higher
-- PowerShell (for running test scripts on Windows)
-
 ## Installation
 
 1. **Clone the repository** (if not already done):
